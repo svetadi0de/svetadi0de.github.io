@@ -4,6 +4,9 @@
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #3a434f;
+
+    /* box-sizing: border-box; */
+
 }
 
 header {
